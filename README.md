@@ -2,7 +2,7 @@ Multi-threaded-Streaming-Video-Server
 =====================================
 
 
-The
+The source code has been deleted as instructed by Boston University Computer Science Department.
 =====================================
 
 CS 552 Project
